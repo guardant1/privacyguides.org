@@ -4,7 +4,15 @@ title: "Social Networks"
 description: "Find a social network that doesn't pry into your data or monetize your profile."
 ---
 
-{% include legacy/sections/social-networks.html %}
+
+{% for item_hash in site.data.providers.social-networks %}
+{% assign item = item_hash[1] %}
+
+{% if item.type == "Recommendation" %}
+{% include recommendation-card.html %}
+{% endif %}
+
+{% endfor %}
 
 <h3>Related Information</h3>
 <ul>
