@@ -8,6 +8,8 @@ Pleroma is more lightweight than Mastodon and supports many different web interf
 
 website: 'https://pleroma.social/'
 downloads:
+  - icon: fas fa-globe-americas
+    url: 'https://docs-develop.pleroma.social/backend/clients/#alternative-web-interfaces'
   - icon: fab fa-windows
     url: 'https://docs-develop.pleroma.social/backend/clients/#desktop'
   - icon: fab fa-apple
@@ -20,5 +22,5 @@ downloads:
     url: 'https://docs-develop.pleroma.social/backend/clients/#handheld'
   - icon: fab fa-app-store-ios
     url: 'https://docs-develop.pleroma.social/backend/clients/#handheld'
-  - icon: fab fa-gitlab
+  - icon: fab fa-git
     url: 'https://git.pleroma.social/pleroma/'
