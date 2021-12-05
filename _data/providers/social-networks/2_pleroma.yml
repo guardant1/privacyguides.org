@@ -2,9 +2,9 @@ title: "Pleroma"
 type: Recommendation
 logo: /assets/img/legacy_svg/3rd-party/pleroma.svg
 description: |
-Pleroma is a free, federated social networking server built on open protocols. It is similar to Twitter and is apart of the Fedirverse. It is compatible with Mastodon along with other other ActivityPub social networks.
+Pleroma is a free, federated social networking server similar to Twitter built on open protocols. Like Mastodon it also uses ActivityPub. This allows for Pleroma users to interact with Mastodon users.
 
-Pleroma is more lightweight than Mastodon and supports many different web interfaces.
+Pleroma is more lightweight than Mastodon and <a href="https://docs-develop.pleroma.social/backend/clients/#alternative-web-interfaces">supports many different web interfaces.</a>
 
 website: 'https://pleroma.social/'
 downloads:
