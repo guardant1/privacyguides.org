@@ -20,5 +20,5 @@ downloads:
     url: 'https://docs-develop.pleroma.social/backend/clients/#handheld'
   - icon: fab fa-app-store-ios
     url: 'https://docs-develop.pleroma.social/backend/clients/#handheld'
-  - icon: fab fa-github
-    url: 'https://docs-develop.pleroma.social/backend/clients/#alternative-web-interfaces'
+  - icon: fab fa-gitlab
+    url: 'https://git.pleroma.social/pleroma/'
