@@ -2,9 +2,9 @@ title: "PixelFed"
 type: Recommendation
 logo: /assets/img/legacy_svg/3rd-party/pixelfed.svg
 description: |
-PixelFed is a free and ethical photo sharing platform similar to Instagram. It is powered by ActivityPub federation. Pixelfed is an open-source, federated platform. You can run your own instance or <a href="https://fediverse.party/en/pixelfed/">join an existing one.</a>
+PixelFed is a free and ethical photo sharing platform similar to Instagram. Pixelfed is an open-source, federated platform. You can run your own instance or <a href="https://fediverse.party/en/pixelfed/">join an existing one.</a>
 
-PixelFed users can view and follow Mastodon and Pleroma accounts. However, they can only see their image posts.
+PixelFed is powered by ActivityPub federation. This allows PixelFed users to view and follow Mastodon and Pleroma accounts. However, they can only see their image posts.
 
 website: 'https://pixelfed.org/'
 downloads:
