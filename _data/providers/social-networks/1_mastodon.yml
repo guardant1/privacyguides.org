@@ -1,15 +1,24 @@
-  title="Mastodon - Twitter Alternative"
-  image="/assets/img/legacy_svg/3rd-party/mastodon.svg"
-  description='Mastodon is a social network based on open web protocols and free, open-source software. It is decentralized like email, users can exist on different servers or even different platforms but still communicate with each other. It also has the most users, and the most diverse (in terms of interests) users, it looks good, and it is easy to setup yourself.'
-  website="https://joinmastodon.org/"
-  github="https://github.com/tootsuite/mastodon"
-  windows="https://joinmastodon.org/apps"
-  mac="https://joinmastodon.org/apps"
-  linux="https://joinmastodon.org/apps"
-  freebsd="https://joinmastodon.org/apps"
-  openbsd="https://joinmastodon.org/apps"
-  netbsd="https://joinmastodon.org/apps"
-  android="https://joinmastodon.org/apps"
-  sailfish="https://joinmastodon.org/apps"
-  ios="https://joinmastodon.org/apps"
-  web="https://joinmastodon.org/#getting-started"
+
+title: "Mastodon"
+type: Recommendation
+logo: /assets/img/legacy_svg/3rd-party/mastodon.svg
+description: |
+Mastodon is a social network based on open web protocols and free, open-source software. It is decentralized like email, users can exist on different servers or even different platforms but still communicate with each other. It also has the most users, and the most diverse (in terms of interests) users, it looks good, and it is easy to setup yourself.
+
+
+website: 'https://joinmastodon.org/'
+downloads:
+  - icon: fab fa-windows
+    url: 'https://joinmastodon.org/apps'
+  - icon: fab fa-apple
+    url: 'https://joinmastodon.org/apps'
+  - icon: fab fa-linux
+    url: 'https://joinmastodon.org/apps'
+  - icon: fab fa-android
+    url: 'https://joinmastodon.org/apps'
+  - icon: fab fa-google-play
+    url: 'https://joinmastodon.org/apps'
+  - icon: fab fa-app-store-ios
+    url: 'https://joinmastodon.org/apps'
+  - icon: fab fa-github
+    url: 'https://github.com/mastodon/mastodon/'
